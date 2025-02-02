@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marwa Haron</h1>
 <h3 align="center">A React js Developer</h3>
 
-- I worked on [Real Estate Website](https://github.com/julianageorge/Real-estate-website-)
-
 - 📫 How to reach me **marwaharon17@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Y8B-dV3eu0ZljwEdf69ZUI4tYPFqQjVD/edit](https://docs.google.com/document/d/1Y8B-dV3eu0ZljwEdf69ZUI4tYPFqQjVD/edit)
