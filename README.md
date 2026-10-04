@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hello, I'm Marwa Haron
-
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=marwaharon27&theme=neon&role=Data%20Analyst%20%7C%20Frontend%20Developer&location=Egypt%20-%20Cairo&v=readme-reference-2" width="100%" alt="Marwa Haron profile banner" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
